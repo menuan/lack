@@ -1,7 +1,10 @@
 [package]
 name = "lack"
 version = "0.1.0"
-authors = ["Simon Bergström <simon@menuan.se>"]
+authors = [
+  "Simon Bergström <simon.bergstrom@caspeco.se>",
+  "Ludvig Norinder <ludvig.norinder@caspeco.se>"
+]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
